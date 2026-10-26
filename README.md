@@ -1,5 +1,7 @@
 
 E-Commerce Sales & Customer Analytics
+
+
 Project Overview
 This project focuses on analysing e-commerce sales performance and customer purchasing behaviour using Microsoft Excel. The dashboard provides insights into sales trends, product categories, customer demographics, and purchasing patterns to support data-driven business decisions.
 

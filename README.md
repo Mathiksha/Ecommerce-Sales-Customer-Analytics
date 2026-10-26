@@ -34,9 +34,6 @@ Analysis Performed
 * Payment Method Analysis: Investigated customer payment preferences.
 * Time-Based Analysis: Analysed sales trends over time.
 
-Dashboard Preview
-
-
 Key Business Value
 * Helps identify high-performing product categories.
 * Supports better understanding of customer preferences.
